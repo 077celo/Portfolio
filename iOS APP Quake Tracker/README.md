@@ -5,7 +5,7 @@
         <b>Presenting earthquake data</b>
     </p>
     <br>
-    <img src="Assets/title_image.png" width="300">
+    <img src="Assets/title_image.png" width="700">
     <br>
 </div>
 
