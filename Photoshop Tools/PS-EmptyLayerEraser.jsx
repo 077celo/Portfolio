@@ -28,7 +28,7 @@ function main(){
     }
 
 	// Add curent view into a layer comp
-    doc.layerComps.add("mail@brunoherfst.com"); //unique
+    doc.layerComps.add("mail@mindcraftmedia.io"); //unique
 
 	// remove all invisible layers
 	// collect all layers and safe the layer ID and Keep flag
@@ -100,7 +100,7 @@ function main(){
 
     removeEmptyLayerSets();
 
-    doc.layerComps["mail@brunoherfst.com"].remove();
+    doc.layerComps["mail@mindcraftmedia.io"].remove();
     doc.selection.deselect();
 
     alert("Done cleaning layers!");
