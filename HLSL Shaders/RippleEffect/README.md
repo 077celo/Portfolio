@@ -92,7 +92,7 @@ To integrate the RippleEffect shader into your application, ensure that you have
 
 
 ## Notes
-This app/project was only developed for learning purposes.
+This project was only developed for learning purposes.
 
 ## Author
 Marcelo Bensabath
@@ -100,8 +100,6 @@ Marcelo Bensabath
 ## License
 See LICENSE.
 
-## Acknowledgments
-The geological data is provided by the Japan Metereological Agency (JMA).
 
 ## Contact
 If you have any questions and want to get in touch with me, just [send me an email](mailto:marcelob465@gmail.com)
